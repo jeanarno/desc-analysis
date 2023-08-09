@@ -13,7 +13,7 @@ This task is divided into 4 parts:
    - Generate the document-term matrix
    - Remove terms occurring in less than 1% of the documents
 3. Find frequently used words
-4 Generate a bar graph to show the top 5 terms of the corpus
+4. Generate a bar graph to show the top 5 terms of the corpus
 
 **Note: The above procedures are commented in my code as well. The .R file shows it all step by step.**
 
