@@ -6,14 +6,14 @@ The goal is to extract the top 5 keywords used often used by customers to descri
 
 # How do I proceed?
 This task is divided into 4 parts:
-**1. Read the file (in CSV) into R and define the vector source
-**2. Conduct text pre-processing. This is where we:
+1. Read the file (in CSV) into R and define the vector source
+2. Conduct text pre-processing. This is where we:
    - Define all stopwords
    - Clean text by removing numbers and punctuations, and make all text lowercase
    - Generate the document-term matrix
    - Remove terms occurring in less than 1% of the documents
-**3. Find frequently used words
-**4 Generate a bar graph to show the top 5 terms of the corpus
+3. Find frequently used words
+4 Generate a bar graph to show the top 5 terms of the corpus
 
 **Note: The above procedures are commented in my code as well. The .R file shows it all step by step.**
 
