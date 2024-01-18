@@ -2,7 +2,7 @@
 In this repository, the goal is to demonstrate my ability to use R to extract the most frequently used words out of customer reviews on 4 ConAgra Brands which are: Blue Bonnet, Earth Balance, Parkay, and Smart Balance.
 
 # What is the goal?
-I am extracting the top 5 keywords used often used by customers to describe each ConAgra product. While doing so, I can also see if the reviews are positive or negative at a glance.
+I am extracting the top 5 keywords often used by customers to describe each ConAgra product. While doing so, I can also see if the reviews are positive or negative at a glance.
 
 # How do I proceed?
 This task is divided into 4 parts:
